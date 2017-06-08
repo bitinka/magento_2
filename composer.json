@@ -1,0 +1,12 @@
+{
+    "name": "pay/payment",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/bitinka/magento_2"
+        }
+    ],
+    "require": {
+        "pay/payment": "dev-master"
+    }
+}
